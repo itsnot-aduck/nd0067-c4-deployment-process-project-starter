@@ -63,6 +63,10 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Screenshots
 
+### Overall diagram
+<img src="public/app-diagram.png" alt="overall"/>
+
+
 ### CircleCI Fullstack
 <img src="public/image.png" alt="overall"/>
 <img src="public/image2.png" alt="build"/>
